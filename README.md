@@ -23,4 +23,9 @@ Welcome to COS 201!
 I am learning computer programming.
 Programming begins with problem-solving.
 My programme is running successfully.
-I will practise programming every week.
+I will practice programming every week.
+## Week 1 Practical Status
+
+- FirstProgram.java created.
+- Five output statements added.
+- Java program uploaded to GitHub.
